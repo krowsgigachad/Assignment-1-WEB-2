@@ -4,7 +4,7 @@ This project implements a basic user registration and login system using Node.js
 
 ## Install dependencies:
 
-npm install
+npm install express body-parser express-session connect-mongo mongoose
 
 ## Configure MongoDB:
 
