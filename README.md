@@ -20,11 +20,11 @@ node app.js
 
 ## Registration Form
 
-Access the registration form at http://localhost:3000/register. Fill out the required fields and submit the form.
+Access the registration form at http://localhost:3000/register.html . Fill out the required fields and submit the form.
 
 ## Login Form
 
-Access the login form at http://localhost:3000/login. Enter your registered email and password to log in.
+Access the login form at http://localhost:3000/login.html . Enter your registered email and password to log in.
 
 ## Database Interaction
 
